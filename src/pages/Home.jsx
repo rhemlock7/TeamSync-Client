@@ -52,6 +52,10 @@ function Home() {
             >
               Projects
             </button>
+            <div>
+              <h1>No Projects Found...</h1>
+              <p>To create your first project, click the button above.</p>
+            </div>
           </div>
         </div>
       </div>
