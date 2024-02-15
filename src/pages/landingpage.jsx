@@ -13,7 +13,7 @@ function LandingPage() {
         <div className="relative z-10 flex flex-col justify-center items-center h-full text-center">
           <img
             className="main-logo"
-            src="src/assets/teamsync.png"
+            src="/assets/teamsync.png"
             alt="TeamSync logo"
           />
           <p className="text-lg text-gray-300 mt-8 text-white">

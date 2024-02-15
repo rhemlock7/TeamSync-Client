@@ -43,7 +43,7 @@ const Signup = () => {
   return (
     <section className="flex flex-col items-center justify-center">
       <div className="text-center mb-10 text-3xl">
-      <img  src="src/assets/logoo.png" alt="TeamSync logo" width="200" height="200" />
+      <img  src="/assets/logoo.png" alt="TeamSync logo" width="200" height="200" />
       </div>
 
       <div className="cards login-card mb-20 rounded-lg p-10 max-w-3xl w-full lg:w-4/4 text-gray-700 shadow-xl">
