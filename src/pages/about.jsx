@@ -3,17 +3,17 @@ const people = [
   {
     name: "Ryan Hemlock",
     role: "Co-Founder / CEO",
-    imageUrl: "../src/assets/ryan.png",
+    imageUrl: "/assets/ryan.png",
   },
   {
     name: "Mustapha Kromah",
     role: "Co-Founder / CEO",
-    imageUrl: "../src/assets/mmk.PNG",
+    imageUrl: "/assets/mmk.PNG",
   },
   {
     name: "Mykhalio Zakharkiv",
     role: "Co-Founder / CEO",
-    imageUrl: "../src/assets/mykhalio.png",
+    imageUrl: "/assets/mykhalio.png",
   },
 ];
 

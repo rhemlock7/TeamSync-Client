@@ -23,7 +23,7 @@ function Navbar({ isAuthenticated, profileId, imgSrc }) {
           </div>
           <div className="flex flex-1 items-center justify-between ">
             <Link to="/" className="flex flex-shrink-0 items-center">
-              <img src="src/assets/logo.png" className="h-10 w-auto" alt="Logo" />  </Link>
+              <img src="./assets/logo.png" className="h-10 w-auto" alt="Logo" />  </Link>
             <div className="hidden sm:ml-6 sm:block">
               <div className="flex space-x-4">
                 <Link
