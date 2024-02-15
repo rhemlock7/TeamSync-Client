@@ -76,8 +76,7 @@ function CommentSection({commentsDB}) {
                 <Avatar style={{backgroundColor: "#007EA7"}} size="small">
                   {comment.commentAuthor.charAt(0).toUpperCase()}
                 </Avatar>
-                <h3 className="text-xl ml-2 ">{comment.commentAuthor}</h3>
-                <p className="ml-2">{comment.createdAt}</p>
+                <h3 className="text-xl ml-2 ">{comment.commentAuthor}</h3> 
               </div>
               {/* Icons */}
               <div className="flex justify-start items-center">
